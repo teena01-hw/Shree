@@ -1,0 +1,6 @@
+{
+  "name": "PostgreSQL & FastAPI JWT Auth Platform",
+  "description": "Production-ready user registration and login application powered by PostgreSQL, Node.js JWT session management, and complete FastAPI SQLAlchemy architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
